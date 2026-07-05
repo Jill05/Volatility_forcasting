@@ -1,4 +1,4 @@
-##IMPLIED VOLATILITY CALCULATION:
+**IMPLIED VOLATILITY CALCULATION:**
 
 Objective (IV calculation)
 Technologies (Python, Pandas, Mibian)
